@@ -13,6 +13,8 @@ OLTP stands for Online Transaction Processing. OLTP has the work to administer d
 (Source: https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/)
 
 2. Databases vs datawarehouse vs datalakes
-- 
+3. Fact table vs dimension table
+4. Star vs snowflake schema
+5. What are different file formats in data engineering
 
 
