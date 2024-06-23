@@ -5,6 +5,9 @@
 - Interview Bit: https://www.interviewbit.com/data-engineer-interview-questions/
 
 ### Questions:
+0. What is Data Engineering?
+- The application of data collecting and analysis is the emphasis of data engineering. The information gathered from numerous sources is merely raw information. Data engineering helps in the transformation of unusable data into useful information. It is the process of transforming, cleansing, profiling, and aggregating huge data sets in a nutshell.
+
 1. What is hadoop? What is hdfs? why apache spark?
 - Hadoop is an open-source software framework that is used for storing and processing large amounts of data in a distributed computing environment. It is designed to handle big data and is based on the MapReduce programming model, which allows for the parallel processing of large datasets.
 
