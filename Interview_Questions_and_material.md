@@ -18,8 +18,9 @@ OLTP stands for Online Transaction Processing. OLTP has the work to administer d
 4. Fact table vs dimension table
 5. Star vs snowflake schema
 6. What are different file formats in data engineering (CSV/Parquet/Avro/ORC)
-7. What is apache kafka, explain the architecture and usage.
+7. What is apache kafka, explain the architecture and usage. Latest version?
 - {2011,streaming data real time,linkedin inventor, Apache licensed, open source}
 - (https://www.geeksforgeeks.org/what-is-apache-kafka-and-how-does-it-work/)
+8. What is zookeeper kafka, what to use instead after discontinuation in 4.0?
 
 
